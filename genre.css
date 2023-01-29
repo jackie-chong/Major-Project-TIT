@@ -1,0 +1,137 @@
+body{
+    background: rgb(39, 33, 33);
+}
+.genre {
+    background: rgb(211, 210, 209);
+    text-align: center;
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+} 
+
+.category{
+    text-align: center;
+    position: relative;
+  }
+.category h1{
+    color: aliceblue;
+    font-size: 50px;
+}
+.category li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    color: aliceblue;
+    font-size: 28px;
+    padding: 30px 100px;
+    font-weight: bold;
+}
+.category li a{
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    width: 150px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 24px;
+    transition: 0.4s ease-in-out;
+    font-weight: bold;
+    text-align: center;
+  }  
+  .category1{
+    text-align: center;
+    position: relative;
+    
+  }
+  .category1 li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    color: aliceblue;
+    font-size: 28px;
+    padding: 30px 100px;
+    font-weight: bold;
+}
+.category1 li a{
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    width: 150px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 24px;
+    transition: 0.4s ease-in-out;
+    font-weight: bold;
+    text-align: center;
+  }  
+  .category2{
+    text-align: center;
+    position: relative;
+  }
+  .category2 li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    color: aliceblue;
+    font-size: 28px;
+    padding: 30px 100px;
+    font-weight: bold;
+}
+.category2 li a{
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    width: 150px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 24px;
+    transition: 0.4s ease-in-out;
+    font-weight: bold;
+    text-align: center;
+  }  
+  .category3{
+    text-align: center;
+    position: relative;
+  }
+  .category3 li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    color: aliceblue;
+    font-size: 28px;
+    padding: 30px 100px;
+    font-weight: bold;
+}
+.category3 li a{
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    width: 150px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 24px;
+    transition: 0.4s ease-in-out;
+    font-weight: bold;
+    text-align: center;
+  } 
+  .category4{
+    text-align: center;
+    position: relative;
+  }
+  .category4 li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    color: aliceblue;
+    font-size: 28px;
+    padding: 30px 100px;
+    font-weight: bold;
+}
+.category4 li a{
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    width: 150px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 24px;
+    transition: 0.4s ease-in-out;
+    font-weight: bold;
+    text-align: center;
+  } 
+  

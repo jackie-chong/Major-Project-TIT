@@ -1,0 +1,65 @@
+body{
+    background-color:  rgb(39, 33, 33);
+}
+.book{
+    height: 414px;
+    width: 290px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.name h1{
+    margin-left: 600px;
+    margin-top: -300px;   
+    font-size: 80px;
+    color: rgb(205, 208, 211);
+}
+.name h2{
+    margin-top: -60px;
+    margin-left: 700px;
+    font-size: 80px;
+    color: rgb(204, 207, 211);
+}
+.name p{
+    margin-left: 1000px;
+    margin-top:0px ;
+    font-size: 30px;
+    color: rgb(204, 207, 211);
+}
+.price{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    list-style: none;
+    margin-left: 50px;
+    margin-top: 70px;
+    color: rgb(203, 205, 206);
+}
+button{
+    margin-top: -100px;
+    height: 45px;
+    width: 279px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.btn1{
+    margin-left: 550px;
+    background-color: rgb(59, 59, 59); 
+    border: none;
+}
+.btn2{
+    margin-left: 100px;
+    background-color: rgb(59, 59, 59);
+    border: none;
+}
+.info{
+    margin-left: 50px;
+    margin-top: 100px;
+    font-size: 15px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.review{
+    margin-top: 100px;
+    margin-left: 150px;
+    background-color: rgb(196, 199, 201);
+    width: 900px;
+}
